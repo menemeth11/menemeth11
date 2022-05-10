@@ -1,7 +1,7 @@
-### Hi, I'm Szymon! 👋
+### Cześć, jestem Szymon! 👋
 
-- 🔭 I’m currently working on web application
-- 🌱 I’m currently learning c#
-- 📫 How to reach me: Discord: Menemeth#4759
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I have 50 tarantulas
+- 🔭 Aktualnie pracuję nad aplikacją okienkową 
+- 🌱 Ciąglę polepaszam moją wiedzę z zakresu c#/.NET
+- 📫 Kontakt do mnie szymon.pacyno@gmail.com
+- ⚡ Ciekawostka: Mam 50 ptaszników! 
+- <!--- - 😄 Pronouns: He/His -->
